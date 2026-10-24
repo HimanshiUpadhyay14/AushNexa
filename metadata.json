@@ -1,0 +1,8 @@
+{
+  "name": "Remix AushNexa - AI Prescription Safety \u0026 Medicine Intelligence",
+  "description": "Educational clinical decision-support and prescription safety platform for India. Detects duplicate active salts, drug interactions, and translates medical abbreviations using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
